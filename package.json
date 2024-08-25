@@ -1,0 +1,25 @@
+{
+  "name": "BookingAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucheezeokoli/BookingAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucheezeokoli/BookingAPI/issues"
+  },
+  "homepage": "https://github.com/ucheezeokoli/BookingAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase": "^10.13.0"
+  },
+  "type":"module"
+}

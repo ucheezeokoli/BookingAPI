@@ -1,7 +1,3 @@
-Here's general documentation on how to use the BookingAPI based on your project structure and the example requests/responses you provided.
-
----
-
 # BookingAPI Documentation
 
 ## Overview

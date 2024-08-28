@@ -1,4 +1,4 @@
-# BookingAPI Documentation
+# Restaurant Booking API Documentation
 
 ## Overview
 

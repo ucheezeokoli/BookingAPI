@@ -2,7 +2,7 @@
 
 ## Overview
 
-The BookingAPI is a Node.js-based API designed to manage restaurant reservations. It allows users to check the availability of restaurants, create reservations, and delete existing reservations.
+The Restaurant Booking API is a Node.js-based API designed to manage restaurant reservations. It allows users to check the availability of restaurants, create reservations, and delete existing reservations.
 
 ## Endpoints
 
